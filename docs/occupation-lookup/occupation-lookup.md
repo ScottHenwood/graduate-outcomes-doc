@@ -21,3 +21,21 @@ Once an occupation has been selected (or if using a direct link), the relavent i
 The top section contains the offical occupation title, a brief description (if available), and the number of people in that occupation.
 
 ![Top section](loaded-top.PNG)
+
+Right below that is the study level distribution chart.
+
+![Chart section](loaded-chart.png)
+
+That study level distribution information is then rehashed in a text list.
+
+![Study level distribution section](loaded-levels-text.PNG)
+
+If a hat ![hat image](hat.png) is shown, then at least 85% of people have a degree level qualification.
+
+Towards the bottom is a list of fields of study which are the top for that occupation (up to ten are displayed). Most link to a field of study page.
+
+![fields of study list section](loaded-field-of-study-list.png)
+
+At the very bottom is a link to a Careers NZ search page which should have the occupation in the results (Note: in some cases this is not displayed). And a print button.
+
+![fields of study list section](loaded-link-and-print.png)
